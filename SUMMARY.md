@@ -8,7 +8,7 @@
 * [Azuki简介](azuki-jian-jie/README.md)
   * [什么是Azuki](azuki-jian-jie/shi-mo-shi-azuki.md)
   * [Azuki团队介绍](azuki-jian-jie/azuki-tuan-dui-jie-shao.md)
-  * [项目愿景](azuki-jian-jie/xiang-mu-yuan-jing.md)
+  * [愿景、宣言和价值观](azuki-jian-jie/yuan-jing-xuan-yan-he-jia-zhi-guan.md)
 * [Azuki发展时间线](azuki-fa-zhan-shi-jian-xian.md)
 * [Azuki与Web3](azuki-yu-web3/README.md)
   * [ERC721A](azuki-yu-web3/erc721a.md)
