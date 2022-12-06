@@ -1,6 +1,6 @@
 # ERC721A
 
-### 什么是ERC721A
+## 什么是ERC721A
 
 以太坊上的gas费一直居高不下，当流行的 NFT 项目开始铸造时，gas 价格往往飙升，产生「 gas war 」现象，这直接导致整个生态系统需支付数百万的 gas 费用进行交易。
 
@@ -20,7 +20,7 @@
 * [@goblintown](https://twitter.com/goblintownwtf)
 * [@adidas (airdrop)](https://opensea.io/collection/adidascapsule)
 
-### 成本测算
+## 成本测算
 
 Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC721A测量了铸造的 gas 成本和价格。
 
@@ -43,7 +43,7 @@ Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721E
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-### 它是如何工作的？
+## 它是如何工作的？
 
 {% hint style="info" %}
 以下部分假设您了解 Solidity 和 OpenZeppelin 的 ERC721 / ERC721Enumerable 实现。
