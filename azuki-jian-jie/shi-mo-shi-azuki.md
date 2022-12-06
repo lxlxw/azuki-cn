@@ -6,7 +6,7 @@ AZUKI 是一个由素材合成的 NFT，通过不同的组合，共发行出 100
 
 <figure><img src="../.gitbook/assets/QmXFqY6P2wUYMLMHdh2hkYgD8Gi2CocBCTCr423MeAG6uN.jpg" alt=""><figcaption></figcaption></figure>
 
-#### 基础信息
+### 基础信息
 
 Azuki，是一个受亚洲文化和“滑板者的叛逆文化”（即街头服饰文化）启发的元宇宙品牌。由位于洛杉矶的 Chiru Labs 推出。
 
@@ -16,28 +16,45 @@ Azuki，是一个受亚洲文化和“滑板者的叛逆文化”（即街头服
 
 <figure><img src="https://lh4.googleusercontent.com/cWm4bvwEnu77DLYnz-t93u9QQqk5WZKhXTaaaKh2H2PXoB5GnagM-cDDLK3XGp4WZXSCcWVHTKiM6TY8B1s-k8taG4YGfHeHJ7qdQQEK8tQNbr0GryPvugEmOZbT_G2uUwOUdBb2r2bzzgl59MlR-1P3_pDXynM2DqONQutimC2L-maIq_oaoByrGMIoGg" alt=""><figcaption></figcaption></figure>
 
-10,000个，每个 Azuki 都会在 Metaverse 以及视频游戏、漫画书等中拥有自己的头像。\
-\
-\
+10,000个，每个 Azuki 都会在 Metaverse 以及视频游戏、漫画书等中拥有自己的头像。
 
 
-<figure><img src="https://lh5.googleusercontent.com/q-GuuW_caYujoQEFVd22myVFlIGNgOh0q9lXsf3jxGhJrjEicKy6T7MYE4l2ztqP3N65xtRVbBJOXZgXcvqVQeSjdWfP80O3Ef5bMju00aPutP_ceSAQ0ors3EvS_EQyQ4R3ANuvu3hMKo_nJWhGAXnQPgYhM2NVAuImXf1LQON8NukaQIX296676P33eQ" alt=""><figcaption></figcaption></figure>
 
-Beanz
+### 发售信息
+
+项目分三个阶段发售，第一阶段荷兰拍，第二阶段白名单，第三阶段公售。通过各类结合社交媒体互动以及项目内部的其他标准来选取白名单人选，尽可能的奖励拥有更高的积极性及粘性的、对社区发展更为重要的用户。
+
+<figure><img src="https://lh5.googleusercontent.com/mnFJ-0oJ4CFO8DkLINoIm0diG7IYvemlOeVi-H81NSSCe-8sP26mLl6Oy5VVbjVFUWnaLQLXgJXTSEM8bFt-_AcbFa40Fii0xQqGDxqm-Am_yKIRcYAVluoQKHVXkUemZKfQSzJA-EcBXHdxGEWvAj0zKHyG_aY1hHd5pVgCw8rx8P0q4M-_fQyqJAar7A" alt=""><figcaption></figcaption></figure>
+
+
+
+### BEANZ
 
 20,000个，一种从小豆园的泥土中长出来的小物种，可靠的伙伴。持有Azuki的用户获得的空投。他们的特征可以与 Azuki 的特征相匹配，从而形成完美的组合。
 
 Bobu是 Azuki #40，使用fractional.art分割为 50,000 块的ERC-1155 代币，以实现去中心化的 IP 治理，可通过投票管理 Bobu 的 IP。随着更多Bobu IP 的开发，Bobu代币可能会增值。
 
+<figure><img src="https://lh5.googleusercontent.com/q-GuuW_caYujoQEFVd22myVFlIGNgOh0q9lXsf3jxGhJrjEicKy6T7MYE4l2ztqP3N65xtRVbBJOXZgXcvqVQeSjdWfP80O3Ef5bMju00aPutP_ceSAQ0ors3EvS_EQyQ4R3ANuvu3hMKo_nJWhGAXnQPgYhM2NVAuImXf1LQON8NukaQIX296676P33eQ" alt=""><figcaption></figcaption></figure>
+
+
+
+### BOBU (Azuki #40)
+
+Azuki #40 通过被存入 [fractional](https://fractional.art/) 中质押，来创建出 20000 个相同的 ERC-1155 代币，以便社区中所有 Bobu 代币的持有者可以参与对 Bobu 角色的集体治理，这一行为被称作碎片化，通过把一个 NFT 质押，生产多个同样的代币，以此来达到权益分散、共同持有的碎片化目的。
+
 <figure><img src="https://lh4.googleusercontent.com/YYKB8Y34U19mlsSp_gg7mINFlTu4SzjC8a4SC9LQ-hdjU1m7tIPvw8vHLXFzaIltGoh39HwyQg3OByIoVBcBYwo_Cz4szTMQW0NTsrb1Grh9bnScFOF8yPLQ1SvRwXXD1KG3_QDfRu1yaGeB2k5E6s-Uw6rEu5SWJFGWzvjwoJnvNlADEcSpwqkqP0HpKA" alt=""><figcaption></figcaption></figure>
 
 IP开发情况：社区投票决定将 2,000 个 Bobu 代币放入 Ledger 中，让 Bobu 成为太空中的第一个 NFT。正在进行投票是7ETH 创建一个 Bobu Plushie 或是一顶 Bobu Bucket Hat。
 
-mint时间，3.6。
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* 发售信息
 
-项目分三个阶段发售，第一阶段荷兰拍，第二阶段白名单，第三阶段公售。通过各类结合社交媒体互动以及项目内部的其他标准来选取白名单人选，尽可能的奖励拥有更高的积极性及粘性的、对社区发展更为重要的用户。
+
+
+
+
+
+
 
 <figure><img src="https://lh5.googleusercontent.com/mnFJ-0oJ4CFO8DkLINoIm0diG7IYvemlOeVi-H81NSSCe-8sP26mLl6Oy5VVbjVFUWnaLQLXgJXTSEM8bFt-_AcbFa40Fii0xQqGDxqm-Am_yKIRcYAVluoQKHVXkUemZKfQSzJA-EcBXHdxGEWvAj0zKHyG_aY1hHd5pVgCw8rx8P0q4M-_fQyqJAar7A" alt=""><figcaption></figcaption></figure>
 

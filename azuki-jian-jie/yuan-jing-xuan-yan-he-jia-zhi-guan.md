@@ -1,6 +1,6 @@
 # 愿景、宣言和价值观
 
-### ![](../.gitbook/assets/愿景.JPG)
+<figure><img src="../.gitbook/assets/愿景.JPG" alt=""><figcaption></figcaption></figure>
 
 ### 愿景：
 
