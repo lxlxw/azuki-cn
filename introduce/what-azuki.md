@@ -46,7 +46,7 @@ Azuki #40 通过被存入 [fractional](https://fractional.art/) 中质押，来�
 
 IP开发情况：社区投票决定将 2,000 个 Bobu 代币放入 Ledger 中，让 Bobu 成为太空中的第一个 NFT。正在进行投票是7ETH 创建一个 Bobu Plushie 或是一顶 Bobu Bucket Hat。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
