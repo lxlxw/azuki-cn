@@ -6,7 +6,7 @@
 
 基于此背景，Azuki的开发团队在原有的 [ERC-721 ](https://eips.ethereum.org/EIPS/eip-721)标准上创建和发布了 [ERC-721A](https://www.erc721a.org/) 标准。它可达到铸造多个 NFT 的成本与铸造单个 NFT 的成本基本相同，即做到在单笔交易中铸造多个 NFT 可显著节省 gas 费用。
 
-同时，ERC-721A 与外部安全顾问合作，确保了该标准的方法是合理的，Azuki 社区鼓励更广泛的社区采用此合约来为其用户节省 gas 成本。
+同时，ERC-721A 与外部安全顾问合作，确保了该标准的方法是合理的，Azuki 社区鼓励更广泛的社区采用此标准来为其用户节省 gas 成本。
 
 以下是一些已经实施或计划使用 ERC-721A 的社区：
 
@@ -22,23 +22,23 @@
 
 ## 成本测算
 
-Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC-721A 测量了铸造的 gas 成本和价格。
+Azuki 通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC-721A 测量了铸造的 gas 成本和价格。
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-此表显示了用于 ERC721A 的气体如何以更小的常数因子缩放越来越多的铸币厂。
+此表显示了用于 ERC-721A 的气体如何以更小的常数因子缩放越来越多的铸币厂。
 
 铸造 NFT 的气体成本增加：
 
-* 使用 Azuki ERC721A 合约**每增加一个薄荷大约 2k gas；**
-* 使用 OpenZeppelin ERC721Enumerable 合约，**每个额外铸币厂约 115k gas；**
+* 使用 Azuki ERC-721A 合约**每增加一个薄荷大约增加 2k gas 费用；**
+* 使用 OpenZeppelin ERC721Enumerable 合约，**每个额外铸币厂约增加 115k gas 费用；**
 
-对于通过 ERC721Enumerable 合约铸造一个代币的价格，用户可以通过 ERC721A 合约铸造多达 5 个代币（或更多，可能）。
+对于通过 ERC-721 Enumerable 合约铸造一个代币的价格，用户可以通过 ERC-721A 合约铸造多达 5 个代币或更多（可能）。
 
 {% hint style="info" %}
-假设 300 gwei 和 3500 美元/ETH的美元成本。（在撰写本文时目前为 120 gwei）。
+假设当前以太为 3500 美元，拿 300 gwei 来进行计算。（在撰写本文时目前为 120 gwei）。
 
-则最终节省的gas费如下：
+则最终节省的 gas 费如下：
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
