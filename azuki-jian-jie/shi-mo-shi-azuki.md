@@ -40,7 +40,7 @@ Bobu是 Azuki #40，使用fractional.art分割为 50,000 块的ERC-1155 代币�
 
 ### BOBU (Azuki #40)
 
-Azuki #40 通过被存入 [fractional](https://fractional.art/) 中质押，来创建出 20000 个相同的 ERC-1155 代币，以便社区中所有 Bobu 代币的持有者可以参与对 Bobu 角色的集体治理，这一行为被称作碎片化，通过把一个 NFT 质押，生产多个同样的代币，以此来达到权益分散、共同持有的碎片化目的。
+Azuki #40 通过被存入 [fractional](https://fractional.art/) 中质押，来创建出 50000 个相同的 ERC-1155 代币，以便社区中所有 Bobu 代币的持有者可以参与对 Bobu 角色的集体治理，这一行为被称作碎片化，通过把一个 NFT 质押，生产多个同样的代币，以此来达到权益分散、共同持有的碎片化目的。
 
 <figure><img src="https://lh4.googleusercontent.com/YYKB8Y34U19mlsSp_gg7mINFlTu4SzjC8a4SC9LQ-hdjU1m7tIPvw8vHLXFzaIltGoh39HwyQg3OByIoVBcBYwo_Cz4szTMQW0NTsrb1Grh9bnScFOF8yPLQ1SvRwXXD1KG3_QDfRu1yaGeB2k5E6s-Uw6rEu5SWJFGWzvjwoJnvNlADEcSpwqkqP0HpKA" alt=""><figcaption></figcaption></figure>
 

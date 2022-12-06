@@ -12,7 +12,7 @@
 |            |         |      |
 |            |         |      |
 
-### 现在让我们回到 AZUKI 的起点
+### 让我们回到 AZUKI 的起点
 
 &#x20;
 
@@ -22,7 +22,7 @@
 
 &#x20;
 
-![AzukiMint720\_385.jpeg](https://lh5.googleusercontent.com/q\_s6lvHXSzCAPbczkmTPMNzw96BY0aaQe0ytdA7x0m60vFTUhemuD3rJGR8u-7UxJ4VyiNNML081iLZFwuOr2bKU2STjhr5jJIKnH5f7Dhofsma3w5f6uTL\_UcODSpFPdninaYl9tDMv3OSetmOewQGf53wWAwwG\_2XPTqYFUJOoR-P7Z9b4\_xS\_t-zWYA)
+<figure><img src="https://lh5.googleusercontent.com/q_s6lvHXSzCAPbczkmTPMNzw96BY0aaQe0ytdA7x0m60vFTUhemuD3rJGR8u-7UxJ4VyiNNML081iLZFwuOr2bKU2STjhr5jJIKnH5f7Dhofsma3w5f6uTL_UcODSpFPdninaYl9tDMv3OSetmOewQGf53wWAwwG_2XPTqYFUJOoR-P7Z9b4_xS_t-zWYA" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -30,7 +30,7 @@
 
 &#x20;
 
-![开图.png](https://lh5.googleusercontent.com/f5BA2DmyZOQ2vJH3OdTKeGfyjCHGz\_d6YgDkbzq7O84Tm083ImDQ0l7JlSjbb9rY\_zyyNCRKqShRgZbN86JzxIIpb9CQaTFKZqG-D5xbX8rCzoLIv2AkEMA\_Xx6oluL-XmN29TS9-tLDc6-BxIXMwgyAjPgTkkABj5nOWBzTeQ8qhRTcQHTf5\_borU-2ng)
+<figure><img src="https://lh5.googleusercontent.com/f5BA2DmyZOQ2vJH3OdTKeGfyjCHGz_d6YgDkbzq7O84Tm083ImDQ0l7JlSjbb9rY_zyyNCRKqShRgZbN86JzxIIpb9CQaTFKZqG-D5xbX8rCzoLIv2AkEMA_Xx6oluL-XmN29TS9-tLDc6-BxIXMwgyAjPgTkkABj5nOWBzTeQ8qhRTcQHTf5_borU-2ng" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -40,7 +40,7 @@ Azuki 官方网站也随项目推出，网站展现了团队的技术和艺术�
 
 &#x20;
 
-![gallery.png](https://lh6.googleusercontent.com/31BDDLcOWgrXoDkO6yRwm36paD51ZmDV4y8qvk93YgSzUuEkK1Div17yLOgzLxcL5Nyh4SIGng8DsjPXqxQuojEZEfG6Wyq-eGKJ15059-gcKWwbJsWQgWtdQUZN1feJ6lYbzzDoOICbeRlyPP55U06t9-1USrggfkgnB1KGt63fj1daVGTRs59vk-PA8A)
+<figure><img src="https://lh6.googleusercontent.com/31BDDLcOWgrXoDkO6yRwm36paD51ZmDV4y8qvk93YgSzUuEkK1Div17yLOgzLxcL5Nyh4SIGng8DsjPXqxQuojEZEfG6Wyq-eGKJ15059-gcKWwbJsWQgWtdQUZN1feJ6lYbzzDoOICbeRlyPP55U06t9-1USrggfkgnB1KGt63fj1daVGTRs59vk-PA8A" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -48,7 +48,7 @@ Azuki 官方网站也随项目推出，网站展现了团队的技术和艺术�
 
 &#x20;
 
-![ERC721A\_01.png](https://lh6.googleusercontent.com/HNaGGTjhYfbeteVpq1dSBAoHuDMp4bBdWbbaxNwntMZpVQgfckh6-HiOazNLDYe39Fmpn4xI34esAcXmowMp75Sj9UQ9ZVJzoNAYEXRz-Q2PnQi0kmNm8xu\_Efa-Xj3Bya5ubK4aAriw534Uoo\_0dUnVSadNz0Ubkt4t21Qj-Ak31KInKV8m5NCULIa2FQ)
+<figure><img src="https://lh6.googleusercontent.com/HNaGGTjhYfbeteVpq1dSBAoHuDMp4bBdWbbaxNwntMZpVQgfckh6-HiOazNLDYe39Fmpn4xI34esAcXmowMp75Sj9UQ9ZVJzoNAYEXRz-Q2PnQi0kmNm8xu_Efa-Xj3Bya5ubK4aAriw534Uoo_0dUnVSadNz0Ubkt4t21Qj-Ak31KInKV8m5NCULIa2FQ" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -60,4 +60,3 @@ Azuki 官方网站也随项目推出，网站展现了团队的技术和艺术�
 
 
 
-大家一起写！
