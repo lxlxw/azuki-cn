@@ -4,7 +4,7 @@
 
 以太坊上的gas费一直居高不下，当流行的 NFT 项目开始铸造时，gas 价格往往会飙升，产生「 gas war 」现象，这直接导致整个生态系统需支付数百万的 gas 费用进行交易。
 
-基于此背景，Azuki的开发团队在原有的 [ERC-721 ](https://eips.ethereum.org/EIPS/eip-721)标准上创建和发布了 [ERC-721A](https://www.erc721a.org/) 标准。它可达到铸造多个 NFT 的成本与铸造单个 NFT 的成本基本相同，即做到在单笔交易中铸造多个 NFT 可显著节省 gas。
+基于此背景，Azuki的开发团队在原有的 [ERC-721 ](https://eips.ethereum.org/EIPS/eip-721)标准上创建和发布了 [ERC-721A](https://www.erc721a.org/) 标准。它可达到铸造多个 NFT 的成本与铸造单个 NFT 的成本基本相同，即做到在单笔交易中铸造多个 NFT 可显著节省 gas 费用。
 
 同时，ERC721A与外部安全顾问合作，确保了该标准的方法是合理的，Azuki社区鼓励更广泛的社区采用这种实施方式来为其用户节省 gas 成本。
 
