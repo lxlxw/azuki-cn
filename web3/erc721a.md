@@ -6,12 +6,12 @@
 
 基于此背景，Azuki的开发团队在原有的 [ERC-721 ](https://eips.ethereum.org/EIPS/eip-721)标准上创建和发布了 [ERC-721A](https://www.erc721a.org/) 标准。它可达到铸造多个 NFT 的成本与铸造单个 NFT 的成本基本相同，即做到在单笔交易中铸造多个 NFT 可显著节省 gas 费用。
 
-同时，ERC-721A 与外部安全顾问合作，确保了该标准的方法是合理的，Azuki 社区鼓励更广泛的社区采用此协议来为其用户节省 gas 成本。
+同时，ERC-721A 与外部安全顾问合作，确保了该标准的方法是合理的，Azuki 社区鼓励更广泛的社区采用此合约来为其用户节省 gas 成本。
 
 以下是一些已经实施或计划使用 ERC-721A 的社区：
 
 {% hint style="info" %}
-请注意，这并不代表ERC721A对这些项目的认可。
+请注意，这并不代表 ERC-721A 对这些项目的认可。
 {% endhint %}
 
 * [@](https://twitter.com/goblintownwtf)[moonbirds](https://twitter.com/moonbirds)
@@ -22,7 +22,7 @@
 
 ## 成本测算
 
-Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC721A测量了铸造的 gas 成本和价格。
+Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC-721A 测量了铸造的 gas 成本和价格。
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
