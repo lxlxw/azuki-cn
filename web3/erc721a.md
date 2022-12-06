@@ -24,7 +24,7 @@
 
 Azuki通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC721A测量了铸造的 gas 成本和价格。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 此表显示了用于 ERC721A 的气体如何以更小的常数因子缩放越来越多的铸币厂。
 
@@ -67,7 +67,7 @@ Azuki的开发团队主要做了以下三个优化：
 >
 > 如何？假设 Alice 铸造了代币 #100、#101 和 #102，Bob 铸造了代币 #103 和 #104。内部所有者跟踪器如下所示：
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > 这里的关键是，如果我们想看看谁拥有#102，我们实际上不需要将 Alice 明确设置为#102 的明确所有者。我们可以只更改 ownerOf 函数来执行以下操作：
 

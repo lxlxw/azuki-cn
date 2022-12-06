@@ -15,7 +15,7 @@
   * [PBT协议](web3/pbt.md)
   * [Bobu 101](web3/bobu-101.md)
   * [Beanz 系列](web3/beanz.md)
-  * [未来： $bean？](web3/token.md)
+  * [$BEAN](web3/token.md)
 * [Azuki与Web2](web2/README.md)
   * [Azuki x AMBUSH®](web2/ambush.md)
   * [Azuki x Red Bull F1](web2/red-bull-f1.md)

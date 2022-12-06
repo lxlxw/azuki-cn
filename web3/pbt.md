@@ -6,7 +6,7 @@
 
 基于该标准，Scan to Own 的模式应运而生，该模式致力于通过与硬件的结合实现物理物品所有权的去中心化转移，以为用户带来全新的体验。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## PBT协议特点
 
