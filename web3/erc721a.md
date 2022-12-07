@@ -1,5 +1,7 @@
 # ERC721A
 
+<figure><img src="../.gitbook/assets/erca.png" alt=""><figcaption></figcaption></figure>
+
 ## 什么是 ERC721A
 
 以太坊上的 gas费一直居高不下，当流行的 NFT 项目开始铸造时，gas 价格往往会飙升，产生「 gas war 」现象，这直接导致整个生态系统需支付数百万的 gas 费用进行交易。
