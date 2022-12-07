@@ -1,6 +1,6 @@
 # ERC721A
 
-<figure><img src="../.gitbook/assets/erca.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ERC721A.png" alt=""><figcaption></figcaption></figure>
 
 ## 什么是 ERC721A
 
