@@ -26,7 +26,7 @@
   * [社区创作](community/creation.md)
   * [Azuki中文社区](community/cn.md)
   * [其他社区列表](community/other.md)
-* [其他](other/README.md)
+* [附录](other/README.md)
   * [如何购买](other/buy.md)
   * [许可协议](other/license.md)
   * [隐私条款](other/conditions.md)
