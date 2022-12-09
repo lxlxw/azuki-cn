@@ -14,15 +14,21 @@ Andrew Wiggins NBA全明星球员
 
 ### 明星：
 
-冯伟伦
+冯德伦 演员 导演
 
-周杰伦
+[https://twitter.com/stephengfung](https://twitter.com/stephengfung)
 
-林俊杰
+周杰伦 歌手
 
-张艺兴
+林俊杰 歌手
 
-伊能静
+[https://twitter.com/JJ\_Lin](https://twitter.com/JJ\_Lin)
+
+张艺兴 歌手
+
+伊能静 歌手
+
+[https://twitter.com/AnnieYi0304](https://twitter.com/AnnieYi0304)
 
 
 
