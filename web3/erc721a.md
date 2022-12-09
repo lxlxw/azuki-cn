@@ -43,7 +43,7 @@ Azuki 通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721
 则最终节省的 gas 费如下：
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 它是如何工作的？
 

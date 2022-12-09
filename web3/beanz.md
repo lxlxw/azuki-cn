@@ -13,7 +13,7 @@
 * 为了互相交流，小BEANZ制造了噪音。他们还通过手势和涂鸦来表达自己。
 * 他们现在看起来都一样，但团队正在暗示更多的东西。也许在不久的将来，会有明显的特征或其他明显的差异。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Beanz 角色
 
