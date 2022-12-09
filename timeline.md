@@ -74,7 +74,7 @@ Azuki 官方网站也随项目推出，网站展现了团队的技术和艺术�
 
 &#x20;
 
-![ERC721A\_01.png](https://lh6.googleusercontent.com/HNaGGTjhYfbeteVpq1dSBAoHuDMp4bBdWbbaxNwntMZpVQgfckh6-HiOazNLDYe39Fmpn4xI34esAcXmowMp75Sj9UQ9ZVJzoNAYEXRz-Q2PnQi0kmNm8xu\_Efa-Xj3Bya5ubK4aAriw534Uoo\_0dUnVSadNz0Ubkt4t21Qj-Ak31KInKV8m5NCULIa2FQ)
+
 
 <figure><img src="https://lh6.googleusercontent.com/HNaGGTjhYfbeteVpq1dSBAoHuDMp4bBdWbbaxNwntMZpVQgfckh6-HiOazNLDYe39Fmpn4xI34esAcXmowMp75Sj9UQ9ZVJzoNAYEXRz-Q2PnQi0kmNm8xu_Efa-Xj3Bya5ubK4aAriw534Uoo_0dUnVSadNz0Ubkt4t21Qj-Ak31KInKV8m5NCULIa2FQ" alt=""><figcaption></figcaption></figure>
 
