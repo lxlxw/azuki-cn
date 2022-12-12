@@ -38,7 +38,7 @@
 
 日本社区
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>2022年10月25日，东京银座</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>2022年10月25日，东京银座</p></figcaption></figure>
 
 台湾社区
 

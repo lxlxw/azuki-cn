@@ -8,4 +8,16 @@
 
 ## 如何加入
 
-// TODO
+Azuki CN是一个开源社区项目。
+
+我们通过问题和拉取请求邀请您参与社区贡献，您可以仔细阅读[如何贡献](./)。
+
+**我们需要您同时具备以下条件：**
+
+1. 充分了解Azuki社区的发展以及未来的规划；&#x20;
+2. 认同Azuki社区的愿景、价值观；&#x20;
+3. 了解NFT、Web3.0与Metaverse的基本知识；
+4. 认可并希望为Azuki CN社区做出自己的贡献。
+
+请发送邮件[contact@azukicn.com](https://mail:contact@azukicn.com)让我们知道。
+

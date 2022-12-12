@@ -1,5 +1,7 @@
 # 前言
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ## 宣言 //
 
 > 次世代的浪潮来了...&#x20;
@@ -38,20 +40,20 @@
 >
 > 准备好接受Azuki了吗？
 
-&#x20;_—— From_ [_Azuki_](https://www.azuki.com/)__
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+&#x20;_—— From_ [_Azuki_](https://www.azuki.com/)_._
 
 ## 从小巷到花园 //
 
 Azuki是个品牌。\
 一个元宇宙的品牌。\
-**一个全新的，由社区缔造的品牌。**\
+_**一个全新的，由社区缔造的品牌。**_\
 \
 我们从10,000个头像开始。我们会一步步开展潮牌合作，NFT空投，线上活动等大量产品与活动。与此同时，我们也期待Azuki的社区中能迸发出全新的可能性。Azuki是我们在宇宙中的身份象征 — 我们一起来建造它吧。\
 \
-在小豆园里，我们将艺术，社群，文化融合成独特的魔法。\
+在小豆园里，我们将艺术，社群，文化融合成独特的魔法。
+
+\
 虚拟与现实的界限正在溶解，已有的规则正在重建。
 
-_—— From_ [Azuki](https://www.azuki.com/)
+&#x20;_—— From_ [_Azuki_](https://www.azuki.com/)_._
 

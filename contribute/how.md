@@ -65,7 +65,7 @@ Auzki CN 使用[GitHub 问题](https://github.com/lxlxw/azuki-cn/issues)来跟�
 
 ## 从Gitbook编辑
 
-请发送邮件xx让我们知道。
+请发送邮件[contact@azukicn.com](https://mail:contact@azukicn.com)让我们知道。
 
 
 

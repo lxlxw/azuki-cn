@@ -8,7 +8,7 @@ Bobu 是去中心化 IP 管理的一个实验。由[Azuki](https://azuki.com)团
 
 Azuki #40 (Bobu) 被存入到[fractional.art](https://fractional.art/) 金库中。该金库将创建 ERC-1155 代币，以便社区中所有 Bobu Token的持有者可以参与对 Bobu 角色的集体治理，Bobu 是 Azuki 宇宙中的一个关键角色。在我们深入细节之前，重要的是要认识到这是一个巨大的 web3 实验。Bobu 希望您手边有一些好酒，以备不时之需！
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>「Azuki#40 Bobu」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>「Azuki#40 Bobu」</p></figcaption></figure>
 
 {% hint style="info" %}
 访问[bobu.azuki.com](https://bobu.azuki.com/)可了解更多详情。
