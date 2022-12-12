@@ -40,6 +40,8 @@
 
 &#x20;_—— From_ [_Azuki_](https://www.azuki.com/)__
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## 从小巷到花园 //
 
 Azuki是个品牌。\

@@ -6,7 +6,7 @@
 
 {% embed url="https://twitter.com/i/status/1513289652895055878" %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>2022年6月22-23日，纽约切尔西</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>2022年6月22-23日，纽约切尔西</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,4 +44,4 @@
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>2022年11月18日，台北</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>2022年12月9日，台北</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>2022年12月9日，台北</p></figcaption></figure>
