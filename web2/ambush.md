@@ -1,5 +1,7 @@
 # Azuki x AMBUSH®
 
-{% embed url="https://twitter.com/i/status/1589618859127894016" %}
-动画宣传片
-{% endembed %}
+2022-xx-xx, Azuki宣布与日本潮牌AMBUSH®合作，推出基于PBT协议的连帽衫和项链，....待补充........
+
+
+
+{% embed url="https://www.instagram.com/tv/CkqX8Ixj2q8/?utm_source=ig_web_copy_link" %}
