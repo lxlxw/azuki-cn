@@ -28,8 +28,6 @@ Azuki社区的目标是为社区创建去中心化的元宇宙品牌，社区是
 详情可参考：[Azuki与Web2](../web2/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
 ****
 
 ###
