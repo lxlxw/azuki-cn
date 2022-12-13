@@ -24,7 +24,7 @@
 
 香港社区
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>2022年9月18日，香港</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>2022年9月18日，香港</p></figcaption></figure>
 
 印尼社区
 
