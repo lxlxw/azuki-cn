@@ -6,7 +6,7 @@
 
 我们的目标是让对 Azuki 的贡献变得简单和透明。
 
-非常感谢您所做的任何贡献。
+<mark style="background-color:yellow;">非常感谢您所做的任何贡献。</mark>
 
 ## 从Github编辑
 

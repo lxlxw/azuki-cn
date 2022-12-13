@@ -8,7 +8,7 @@
 
 ## 如何加入
 
-Azuki CN是一个开源社区项目。
+<mark style="background-color:yellow;">Azuki CN是一个开源社区项目。</mark>
 
 我们通过问题和拉取请求邀请您参与社区贡献，您可以仔细阅读[如何贡献](./)。
 

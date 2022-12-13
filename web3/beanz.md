@@ -2,7 +2,7 @@
 
 ## 什么是Beanz
 
-「_BEANZ_ Official」是20k的Beanz NFT的集合，由Auzki团队发起。2022年3月31日，在Azuki NFT LA派对期间，Beanz官方宣布向所有Azuki持有者空投Beanz NFT。他们的特征可以与 Azuki 的特征相匹配，从而形成完美的组合。
+[「_BEANZ_ Official」](https://www.azuki.com/beanz)是20k的Beanz NFT的集合，由Auzki团队发起。2022年3月31日，在Azuki NFT LA派对期间，Beanz官方宣布向所有Azuki持有者空投Beanz NFT。他们的特征可以与 Azuki 的特征相匹配，从而形成完美的组合。
 
 ### Azuki社区如何介绍BEANZ
 

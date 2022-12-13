@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/QmXFqY6P2wUYMLMHdh2hkYgD8Gi2CocBCTCr423MeAG6uN.jpg" alt=""><figcaption></figcaption></figure>
 
-Azuki是一组日系动漫风格的10000张[NFT集合](https://ethereum.org/zh/nft/)，它由 [Chiru Labs](https://www.chirulabs.com/) 推出。NFT用作其社区「The Garden 」的会员通行证，旨在共同创造去中心化的社区与Web3品牌。Azuki的每一个NFT都是独一无二，其发型、眼睛、嘴巴、脖子、服装配饰和背景类型等都有差异。
+Azuki是一组日系动漫风格的10000张[NFT集合](https://ethereum.org/zh/nft/)，它由 [Chiru Labs](https://www.chirulabs.com/) 推出。NFT用作其社区「The Garden 」的会员通行证，旨在共同创造去中心化的社区与Web3品牌。<mark style="background-color:yellow;">Azuki的每一个NFT都是独一无二，其发型、眼睛、嘴巴、脖子、服装配饰和背景类型等都有差异。</mark>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

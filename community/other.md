@@ -1,6 +1,12 @@
-# 其他社区列表
+# 社区列表
 
 ### 地区社区
+
+**Azuki CN**
+
+推特：[https://twitter.com/AzukiCN\_garden](https://twitter.com/AzukiCN\_garden)
+
+网站：[https://azukicn.com](https://azukicn.com)
 
 **Azuki Japan**
 
@@ -38,17 +44,17 @@
 
 ### Alpha社区
 
-Azuki Alpha Beans
+**Azuki Alpha Beans**
 
 推特：[https://twitter.com/TheBeanList](https://twitter.com/TheBeanList)
 
-Bean List
+**Bean List**
 
 推特：[https://twitter.com/TheBeanList](https://twitter.com/TheBeanList)
 
 ### 兴趣类社区
 
-Azuki Cafe
+**Azuki Cafe**
 
 推特：[https://twitter.com/AceRebirth](https://twitter.com/AceRebirth)
 
