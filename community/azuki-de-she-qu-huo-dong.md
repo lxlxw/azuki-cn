@@ -11,3 +11,5 @@ Azuki的持有者们可以根据图片和故事综合进行评比。所有参与
 这个活动的竞选和拉票过程里产生了很多有趣的drama，被大家津津乐道。同时也促进了社区成员之间的联系和熟悉程度。
 
 未来还有很多期的azuki 爱岛活动，大家可以关注@aetherfloweth 的推特获得更多的信息
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-15 at 2.49.26 PM.png" alt=""><figcaption></figcaption></figure>
