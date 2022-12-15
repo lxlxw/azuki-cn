@@ -18,7 +18,7 @@
 * [Azuki与Web2](web2/README.md)
   * [Azuki x AMBUSH®](web2/ambush.md)
   * [Azuki x Red Bull F1 x Bybit](web2/red-bull-f1.md)
-  * [Azuki x tiger0](web2/tiger0.md)
+  * [Azuki x Tigers](web2/tiger0.md)
   * [Azuki x 名人持有](web2/star.md)
 * [Azuki社区建设](community/README.md)
   * [线下活动一览](community/list.md)
