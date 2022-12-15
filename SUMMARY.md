@@ -24,6 +24,7 @@
   * [线下活动一览](community/list.md)
   * [社区创作](community/creation.md)
   * [社区列表](community/other.md)
+  * [Azuki 社区meme创造合集](community/azuki-she-qu-meme-chuang-zao-he-ji.md)
 * [附录](other/README.md)
   * [如何购买](other/buy.md)
   * [许可协议](other/license.md)
