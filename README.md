@@ -1,6 +1,6 @@
 # 前言
 
-<figure><img src=".gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## 宣言 //
 

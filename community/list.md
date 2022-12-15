@@ -56,6 +56,6 @@
 
 {% embed url="https://twitter.com/Johnf696969/status/1593711482121830402?s=20&t=Mua5DGSUexfUCVq4o9R87g" %}
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>2022年12月9日，台北</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>2022年12月9日，台北</p></figcaption></figure>
 
 {% embed url="https://twitter.com/Johnf696969/status/1601158542240555008?s=20&t=Mua5DGSUexfUCVq4o9R87g" %}
