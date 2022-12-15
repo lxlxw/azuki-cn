@@ -2,7 +2,7 @@
 
 ### 联合创始人兼领导者
 
-[Zagabond](https://twitter.com/ZAGABOND) ：出生于中国，在谷歌工作，传言他也曾在通用磨坊、亚马逊、0xLabs 工作过，曾经匿名参与过多个 NFT 项目，虽然这些 NFT 被抛弃，并被人称为骗局，但也为他 Azuki 项目提供了许多宝贵经验。
+[Zagabond](https://twitter.com/ZAGABOND) ：DeFi和前硅谷科技公司创客
 
 ### 联合创始人兼设计师
 
