@@ -10,7 +10,7 @@
 | 2022-01-12 | Mint                                                          | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1481325173018034182) |
 | 2022-01-20 | Azuki reveal 及 画廊上线                                           | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1484254631609831424) |
 | 2022-01-22 | ERC721A合约公布                                                   | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1484607976878923780) |
-| 2022-01-29 | Azuki x Discord官方Bot上线                                        | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1487228492890607616) |
+| 2022-01-29 | Azuki x Discord官方验证机器人上线                                      | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1487228492890607616) |
 | 2022-02-15 | Steamboy作为艺术总监全职加入Chirulabs                                   | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1493305405392384001) |
 | 2022-02-17 | Azuki 思维地图更新                                                  | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1494137223968481284) |
 | 2022-03-16 | Azuki 官方角色bobu宣布碎片化                                           | [🔗 - 相关链接](https://twitter.com/AzukiOfficial/status/1500236890481610752) |
