@@ -16,7 +16,7 @@
 
 ### 关于Oracle Red Bull Racing、Azuki和Bybit
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 相关视频：
 

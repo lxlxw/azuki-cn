@@ -26,7 +26,7 @@
 
 Azuki 通过最常用的 NFT 智能合约启动代码（[OpenZeppelin 的 ERC721Enumerable 合约](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721Enumerable)）批量铸造 NFT 与使用新的 Azuki ERC-721A 测量了铸造的 gas 成本和价格。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 此表显示了用于 ERC-721A 的气体如何以更小的常数因子缩放越来越多的铸币厂。
 

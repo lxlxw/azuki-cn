@@ -22,7 +22,7 @@
 
 <img src="../.gitbook/assets/1670900081533.jpg" alt="" data-size="original"><img src="../.gitbook/assets/1670900129623 (1).jpg" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (5) (2).png>)
 
 
 
@@ -36,7 +36,7 @@
 
 {% embed url="https://www.azuki.com/shop/ambush/goldwithbean.mp4" %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### AZUKI X AMBUSH® 银龙吊坠
 

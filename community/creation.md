@@ -4,7 +4,7 @@ Azuki社区以官方及社区丰富的二创而闻名，在项目创始初期，
 
 <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>早期社区二创作品集合</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Azuki Opensea Banner</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Azuki Opensea Banner</p></figcaption></figure>
 
 而这种传统一直延续至今，Azuki的社区成员经常举行社区的二创比赛，一些艺术家与持有者经常互动并进行二创的开发，发展出了多位优秀的社区二创艺术家。
 

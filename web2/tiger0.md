@@ -26,8 +26,8 @@ Azuki Twin Tigers 夹克是双面穿的——一侧为蓝色，另一侧为红�
 
 <mark style="background-color:yellow;">这件夹克的厂商建议零售价为 2,000 美元。</mark>
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 夹克的蓝色一面采用手工链式缝纫和雪尼尔老虎刺绣，袖子和胸部还有额外的刺绣细节。夹克的红色一面在前胸饰有红色刺绣的 AZUKI 标志，袖子上饰有白色滚边。
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1) (3).png>)
+![](<../.gitbook/assets/image (1).png>)![](<../.gitbook/assets/image (1) (3).png>)
