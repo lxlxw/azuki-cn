@@ -10,7 +10,7 @@
 
 * 使用推特或 discord 登录
 
-![](<../.gitbook/assets/image (26).png>)
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,13 +26,13 @@
 
 * 点击Enter Wallet后，获得随机码
 
-![](<../.gitbook/assets/image (13).png>)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * 打开Opensea，复制随机码并保存在 OpenSea bio 中
 
-![](<../.gitbook/assets/image (23).png>)
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@
 
 * 点击个人主页的设置按钮后，点击Connect Third Party进行小红书授权
 
-![](<../.gitbook/assets/image (5).png>)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -86,7 +86,9 @@
 
 ## 三、小红书用户协议
 
-使用规则 您的好友（授权人）正通过合作平台向您同步其合法持有的 NFT 底层图片作品。确认领取后，您 可在 R-SPACE 内展示授权作品或根据小红书指定方式（如设置为头像）使用。 您理解并确认：
+使用规则 您的好友（授权人）正通过合作平台向您同步其合法持有的 NFT 底层图片作品。确认领取后，您 可在 R-SPACE 内展示授权作品或根据小红书指定方式（如设置为头像）使用。&#x20;
+
+您理解并确认：
 
 1. 本功能只提供一项有限的作品使用授权，不涉及任何其他权益转移。
 2. 小红书承诺根据《小红书隐私政策》保护您的个人信息及个人隐私，未经您的授权同意，小红书不 会向任何第三方提供您的个人信息。
